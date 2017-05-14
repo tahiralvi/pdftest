@@ -1,0 +1,25 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "se.konsultrum"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "se.konsultrum"
+        },
+        "cordova-plugin-document-viewer": {
+            "PACKAGE_NAME": "se.konsultrum"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-android-support-v4-jar": {
+            "PACKAGE_NAME": "se.konsultrum"
+        }
+    }
+}
